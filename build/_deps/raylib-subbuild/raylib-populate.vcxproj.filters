@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\996b9e725032791ae2afba0a156d1193\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\e2ef5de73c98e1ce5f39cd92b0a80f22\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\0ede857c43e6ffe4ec54a90241c80ce5\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\neali\ProceduralAnimation\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{41EBCBBF-505A-3E3D-93D1-EBF499BCE35E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
