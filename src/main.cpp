@@ -40,6 +40,10 @@ float WrapAngle(float a)
     return a;
 }
 
+
+// TODO: Chain class: Create a Joint struct containing vector2 pos and f radius, then a vector array for the joints. 
+// the chain class should take in the start and end pos, int count for joints, and radius for head and tail and the distance between them. 
+// joint[0] should ref the head pos, should replace the head struct
 int main()
 {
     InitWindow(1820, 1200, "Procedural Animation");
